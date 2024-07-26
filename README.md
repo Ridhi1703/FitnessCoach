@@ -1,6 +1,7 @@
 Sure! Here's a detailed GitHub description for your project:
 
 ---
+Live:- https://fitness-coach-six.vercel.app/
 
 # Fitness Coach Chatbot
 
